@@ -1,4 +1,4 @@
-# 🔐 SailPoint Identity Lifecycle Simulation Project
+# 🔐 SailPoint Identity Lifecycle Project
 
 This simulated project demonstrates the core Identity Lifecycle Management capabilities of **SailPoint IdentityNow**, a leading Identity Governance and Administration (IGA) platform. The simulation walks through onboarding, access provisioning, access reviews, and offboarding processes — highlighting how SailPoint automates identity security across connected systems.
 
