@@ -1,6 +1,3 @@
-# sailpoint-identity-lifecycle-Project
-Hands-on simulation of SailPoint IdentityNow lifecycle processes including onboarding, RBAC provisioning, policy enforcement, access reviews, and offboarding.
-
 # 🔐 SailPoint Identity Lifecycle Simulation Project
 
 This simulated project demonstrates the core Identity Lifecycle Management capabilities of **SailPoint IdentityNow**, a leading Identity Governance and Administration (IGA) platform. The simulation walks through onboarding, access provisioning, access reviews, and offboarding processes — highlighting how SailPoint automates identity security across connected systems.
