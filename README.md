@@ -41,7 +41,7 @@ This simulation uses a CSV file to represent data from an HR system such as Work
 | Jane       | Doe       | jane.doe@example.com   | IT         | Systems Engineer   | 2025-07-02  |
 | Sarah      | Lee       | sarah.lee@example.com  | HR         | Recruiter          | 2025-07-03  |
 
-This file simulates how SailPoint imports identity records from an authoritative source. Each entry triggers lifecycle events like onboarding, access provisioning, and future offboarding.
+This file simulates how SailPoint brings in user data from an HR system, which then kicks off onboarding, access setup, and eventually offboarding.
 
 ---
 
