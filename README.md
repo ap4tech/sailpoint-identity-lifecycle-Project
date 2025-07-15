@@ -49,7 +49,7 @@ This file simulates how SailPoint brings in user data from an HR system, which t
 
 The following screenshot provides a high-level view of the identity lifecycle implemented in SailPoint IdentityNow. It covers onboarding, access provisioning, certification, and offboarding.
 
-👉 [Click here to view the full screenshot](IAM%20SailPoint%20Screenshot.png)
+👉 [Click here to view the full screenshot](Sailpoint%20Lab%20Screenshot.png)
 
 ---
 
